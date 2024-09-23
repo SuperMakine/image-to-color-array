@@ -1,3 +1,5 @@
+Python version 3.12.2. You might have to install python image library (PIL)
+
 How to use (should work with .png, .jpeg and .gif files):
 1. Have your "multiuse" python file in a good location where you also have the image/GIF you want to convert.
 2. Open the py file.
